@@ -6,6 +6,7 @@ public class Main {
         boolean pornit = true;
 
         System.out.println(nume);
+        System.out.println(pornit);
 
         if (obiecte > 2) {
             System.out.println("Sunt mai mult de 2 obiecte");
