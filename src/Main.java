@@ -5,6 +5,8 @@ public class Main {
         String nume = "robot";
         boolean pornit = true;
 
+        System.out.println(nume);
+
         if (obiecte > 2) {
             System.out.println("Sunt mai mult de 2 obiecte");
         }
